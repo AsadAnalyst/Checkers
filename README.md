@@ -31,3 +31,5 @@
 - **Faster Execution: It significantly reduces computation time, often cutting the number of explored nodes by 50% or more.**
 - **Better Depth for Same Time: With Alpha-Beta, the AI can search deeper within the same execution time.**
 
+![image](https://github.com/user-attachments/assets/13339726-5f3e-4f47-bfd0-dcf57c713da2)
+
